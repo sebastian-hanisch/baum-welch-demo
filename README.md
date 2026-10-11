@@ -1,7 +1,6 @@
 # Baum-Welch: Übergänge aus den Daten lernen, und wann das nichts bringt – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-baum-welch-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-baum-welch-demo.streamlit.app/)**
 
 Neuntes Stück der Linie **Zustandsschätzung und Filter** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt [HMM-Dekodieren](https://github.com/sebastian-hanisch/hmm-decode-demo) fort und greift dessen benennbare Schwäche auf: **die Übergangsgewichte waren von Hand gesetzt**. Baum-Welch
